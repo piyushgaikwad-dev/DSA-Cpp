@@ -1,0 +1,10 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore input/output files
+input.txt
+output.txt
+
+# Ignore compiled C++ files
+*.exe
+*.out
