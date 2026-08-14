@@ -20,3 +20,4 @@ public:
     }
 };
 //This code needs to be updated once again.
+//It's same as 5.6.Minimum in Sorted Rotated Array.
