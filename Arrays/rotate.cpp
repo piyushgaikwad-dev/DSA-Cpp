@@ -16,3 +16,4 @@ void rotate(std::vector<std::vector<int>>& matrix) {
         std::reverse(matrix[i].begin(), matrix[i].end());
     }
 }   
+//The array needs to be rotated.
