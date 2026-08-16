@@ -9,4 +9,4 @@ int search (vector<int> & nums,int target) {
     }
     return -1;
 }
-//This is general code for binary search and to this code only any variations will be carried out in ordre to solve any problems.
+//This is general code for binary search and to this code only any variations will be carried out in order to solve any problems.
