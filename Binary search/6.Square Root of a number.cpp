@@ -13,3 +13,4 @@ int floorSqrt(int n)
     }
     return high;
 }
+//When there are terms like finding and min or max always take the approach of Binary search.
