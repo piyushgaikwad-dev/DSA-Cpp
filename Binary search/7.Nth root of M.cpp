@@ -21,3 +21,4 @@ int NthRoot(int n, int m) {
   return -1;
 
 }
+//The question is to find the Nth root of the given number that is M.
