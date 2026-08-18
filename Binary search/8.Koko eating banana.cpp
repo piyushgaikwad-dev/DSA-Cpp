@@ -40,4 +40,4 @@ public:
         return low; 
     } 
 };
-//This code is working as it's taking form the gpt.
+//This code is working as it's taken form the gpt.
