@@ -1,2 +1,2 @@
 # DSA-Cpp
-The README will be updated soon
+The README will be updated soon.
