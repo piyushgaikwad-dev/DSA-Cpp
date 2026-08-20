@@ -17,3 +17,4 @@ void rotate(std::vector<std::vector<int>>& matrix) {
     }
 }   
 //The array needs to be rotated.
+//Rotate need to be checked again.
